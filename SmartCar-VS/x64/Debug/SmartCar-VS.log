@@ -1,0 +1,2 @@
+﻿SmartCar-VS.obj : error LNK2005: "class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl intToString(int)" (?intToString@@YA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z) already defined in Info.obj
+C:\Users\Mykhaylo\source\repos\SmartCar-VS\x64\Debug\SmartCar-VS.exe : fatal error LNK1169: one or more multiply defined symbols found
